@@ -6,7 +6,7 @@ export default {
     {
       name: "postedBy",
       title: "PostedBy",
-      type: "postedBy",
+      type: "postedByer",
     },
     {
       name: "userId",
